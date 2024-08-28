@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yuki1353
+- 👋 Hi, I’m gowri
 - 👀 I’m interested in ... Py mcu 
 - 🌱 I’m currently learning ... Mcu linux etc
 - 💞️ I’m looking to collaborate on ...idk
